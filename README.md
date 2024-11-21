@@ -1,4 +1,4 @@
-# Write the Verilog HDL code for 4kb RAM,8x8 ROM, FIFO memory to read and write operation and verify with testbench
+# Exp No:07 Write the Verilog HDL code for 4kb RAM,8x8 ROM, FIFO memory to read and write operation and verify with testbench
 
 ## Aim 
 To design and simulate a 4KB ROM memory with read and write operations using Verilog HDL and verify the functionality through a testbench in the Vivado 2023.1 simulation environment.
